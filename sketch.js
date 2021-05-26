@@ -1,4 +1,3 @@
-//Emre Nitim - 17011079
 //Bu dosya p5.js kütüphanesi kullanılarak yazılmıştır.
 //Genetik algoritmanın sonuçlarının görselleştirildiği kısımdır.
 
